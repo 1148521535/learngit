@@ -4,4 +4,4 @@ Git has a mutable index alled stage.
 Git tracks changes of files.
 why?
 what are you doing?
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
